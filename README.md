@@ -1,2 +1,2 @@
 # TechnoHacks-Projects
-These projects are undertaken as internship projects under the guidance of TechnoHacks
+These projects are undertaken as internship projects provided by TechnoHacks
